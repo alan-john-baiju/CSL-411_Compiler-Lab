@@ -1,0 +1,1 @@
+triple and indirect intriple programs of intermediate code generation
